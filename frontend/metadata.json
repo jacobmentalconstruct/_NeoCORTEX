@@ -1,0 +1,5 @@
+{
+  "name": "Cortex Knowledge Manager",
+  "description": "A local-first dashboard for managing SQLite-based RAG knowledge bases with a Cyberpunk/Terminal aesthetic.",
+  "requestFramePermissions": []
+}

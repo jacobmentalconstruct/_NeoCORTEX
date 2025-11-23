@@ -1,0 +1,161 @@
+Project Root: C:\Users\jacob\Documents\Scripts\useful-helper-scripts\_NeoCORTEX_v2.0
+Generated: 2025-11-23 08:26:50
+Global Default Folder Exclusions: .git, .idea, .mypy_cache, .venv, .vscode, Debug, Release, __pycache__, _logs, bin, build, dist, logs, node_modules, obj, out, target
+Predefined Filename Exclusions: *.pyc, *.pyo, *.swo, *.swp, .DS_Store, Thumbs.db, package-lock.json, yarn.lock
+Dynamic Filename Exclusions: None
+
+[X] _NeoCORTEX_v2.0/ (Project Root)
+  ├── [ ] _logs/
+  ├── [X] backend/
+  │   ├── [ ] __pycache__/
+  │   ├── [X] neocortex-dev/
+  │   │   ├── [X] Include/
+  │   │   ├── [X] Lib/
+  │   │   │   └── [X] site-packages/
+  │   │   │       ├── [ ] __pycache__/
+  │   │   │       ├── [ ] _distutils_hack/
+  │   │   │       ├── [ ] _yaml/
+  │   │   │       ├── [ ] annotated_types/
+  │   │   │       ├── [ ] annotated_types-0.7.0.dist-info/
+  │   │   │       ├── [ ] anyio/
+  │   │   │       ├── [ ] anyio-4.11.0.dist-info/
+  │   │   │       ├── [ ] babel/
+  │   │   │       ├── [ ] babel-2.17.0.dist-info/
+  │   │   │       ├── [ ] beautifulsoup4-4.14.2.dist-info/
+  │   │   │       ├── [ ] bs4/
+  │   │   │       ├── [ ] certifi/
+  │   │   │       ├── [ ] certifi-2025.11.12.dist-info/
+  │   │   │       ├── [ ] charset_normalizer/
+  │   │   │       ├── [ ] charset_normalizer-3.4.4.dist-info/
+  │   │   │       ├── [ ] click/
+  │   │   │       ├── [ ] click-8.3.1.dist-info/
+  │   │   │       ├── [ ] colorama/
+  │   │   │       ├── [ ] colorama-0.4.6.dist-info/
+  │   │   │       ├── [ ] courlan/
+  │   │   │       ├── [ ] courlan-1.3.2.dist-info/
+  │   │   │       ├── [ ] dateparser/
+  │   │   │       ├── [ ] dateparser-1.2.2.dist-info/
+  │   │   │       ├── [ ] dateparser_cli/
+  │   │   │       ├── [ ] dateparser_data/
+  │   │   │       ├── [ ] dateparser_scripts/
+  │   │   │       ├── [ ] dateutil/
+  │   │   │       ├── [ ] fastapi/
+  │   │   │       ├── [ ] fastapi-0.110.0.dist-info/
+  │   │   │       ├── [ ] filelock/
+  │   │   │       ├── [ ] filelock-3.20.0.dist-info/
+  │   │   │       ├── [ ] fsspec/
+  │   │   │       ├── [ ] fsspec-2025.10.0.dist-info/
+  │   │   │       ├── [ ] functorch/
+  │   │   │       ├── [ ] h11/
+  │   │   │       ├── [ ] h11-0.16.0.dist-info/
+  │   │   │       ├── [ ] htmldate/
+  │   │   │       ├── [ ] htmldate-1.9.4.dist-info/
+  │   │   │       ├── [ ] huggingface_hub/
+  │   │   │       ├── [ ] huggingface_hub-0.36.0.dist-info/
+  │   │   │       ├── [ ] idna/
+  │   │   │       ├── [ ] idna-3.11.dist-info/
+  │   │   │       ├── [ ] jinja2/
+  │   │   │       ├── [ ] jinja2-3.1.6.dist-info/
+  │   │   │       ├── [ ] joblib/
+  │   │   │       ├── [ ] joblib-1.5.2.dist-info/
+  │   │   │       ├── [ ] justext/
+  │   │   │       ├── [ ] justext-3.0.2.dist-info/
+  │   │   │       ├── [ ] lxml/
+  │   │   │       ├── [ ] lxml-6.0.2.dist-info/
+  │   │   │       ├── [ ] lxml_html_clean/
+  │   │   │       ├── [ ] lxml_html_clean-0.4.3.dist-info/
+  │   │   │       ├── [ ] markupsafe/
+  │   │   │       ├── [ ] markupsafe-3.0.3.dist-info/
+  │   │   │       ├── [ ] mpmath/
+  │   │   │       ├── [ ] mpmath-1.3.0.dist-info/
+  │   │   │       ├── [ ] networkx/
+  │   │   │       ├── [ ] networkx-3.4.1.dist-info/
+  │   │   │       ├── [ ] numpy/
+  │   │   │       ├── [ ] numpy-2.3.5.dist-info/
+  │   │   │       ├── [ ] numpy.libs/
+  │   │   │       ├── [ ] packaging/
+  │   │   │       ├── [ ] packaging-25.0.dist-info/
+  │   │   │       ├── [ ] PIL/
+  │   │   │       ├── [ ] pillow-12.0.0.dist-info/
+  │   │   │       ├── [ ] pip/
+  │   │   │       ├── [ ] pip-25.2.dist-info/
+  │   │   │       ├── [ ] pkg_resources/
+  │   │   │       ├── [ ] pydantic/
+  │   │   │       ├── [ ] pydantic-2.11.2.dist-info/
+  │   │   │       ├── [ ] pydantic_core/
+  │   │   │       ├── [ ] pydantic_core-2.33.1.dist-info/
+  │   │   │       ├── [ ] python_dateutil-2.9.0.post0.dist-info/
+  │   │   │       ├── [ ] pytz/
+  │   │   │       ├── [ ] pytz-2025.2.dist-info/
+  │   │   │       ├── [ ] pyyaml-6.0.3.dist-info/
+  │   │   │       ├── [ ] rapidfuzz/
+  │   │   │       ├── [ ] rapidfuzz-3.14.3.dist-info/
+  │   │   │       ├── [ ] regex/
+  │   │   │       ├── [ ] regex-2025.11.3.dist-info/
+  │   │   │       ├── [ ] requests/
+  │   │   │       ├── [ ] requests-2.32.5.dist-info/
+  │   │   │       ├── [ ] safetensors/
+  │   │   │       ├── [ ] safetensors-0.7.0.dist-info/
+  │   │   │       ├── [ ] scikit_learn-1.7.2.dist-info/
+  │   │   │       ├── [ ] scipy/
+  │   │   │       ├── [ ] scipy-1.16.3.dist-info/
+  │   │   │       ├── [ ] scipy.libs/
+  │   │   │       ├── [ ] sentence_transformers/
+  │   │   │       ├── [ ] sentence_transformers-3.2.0.dist-info/
+  │   │   │       ├── [ ] setuptools/
+  │   │   │       ├── [ ] setuptools-80.9.0.dist-info/
+  │   │   │       ├── [ ] six-1.17.0.dist-info/
+  │   │   │       ├── [ ] sklearn/
+  │   │   │       ├── [ ] sniffio/
+  │   │   │       ├── [ ] sniffio-1.3.1.dist-info/
+  │   │   │       ├── [ ] soupsieve/
+  │   │   │       ├── [ ] soupsieve-2.8.dist-info/
+  │   │   │       ├── [ ] sqlite_vec/
+  │   │   │       ├── [ ] sqlite_vec-0.1.6.dist-info/
+  │   │   │       ├── [ ] starlette/
+  │   │   │       ├── [ ] starlette-0.36.3.dist-info/
+  │   │   │       ├── [ ] sympy/
+  │   │   │       ├── [ ] sympy-1.14.0.dist-info/
+  │   │   │       ├── [ ] threadpoolctl-3.6.0.dist-info/
+  │   │   │       ├── [ ] tld/
+  │   │   │       ├── [ ] tld-0.13.1.dist-info/
+  │   │   │       ├── [ ] tokenizers/
+  │   │   │       ├── [ ] tokenizers-0.22.1.dist-info/
+  │   │   │       ├── [ ] torch/
+  │   │   │       ├── [ ] torch-2.9.1.dist-info/
+  │   │   │       ├── [ ] torchgen/
+  │   │   │       ├── [ ] tqdm/
+  │   │   │       ├── [ ] tqdm-4.66.5.dist-info/
+  │   │   │       ├── [ ] trafilatura/
+  │   │   │       ├── [ ] trafilatura-1.12.2.dist-info/
+  │   │   │       ├── [ ] transformers/
+  │   │   │       ├── [ ] transformers-4.57.1.dist-info/
+  │   │   │       ├── [ ] typing_extensions-4.15.0.dist-info/
+  │   │   │       ├── [ ] typing_inspection/
+  │   │   │       ├── [ ] typing_inspection-0.4.2.dist-info/
+  │   │   │       ├── [ ] tzdata/
+  │   │   │       ├── [ ] tzdata-2025.2.dist-info/
+  │   │   │       ├── [ ] tzlocal/
+  │   │   │       ├── [ ] tzlocal-5.3.1.dist-info/
+  │   │   │       ├── [ ] urllib3/
+  │   │   │       ├── [ ] urllib3-2.5.0.dist-info/
+  │   │   │       ├── [ ] uvicorn/
+  │   │   │       ├── [ ] uvicorn-0.34.0.dist-info/
+  │   │   │       ├── [ ] yaml/
+  │   │   │       ├── 📄 distutils-precedence.pth
+  │   │   │       ├── 📄 isympy.py
+  │   │   │       ├── 📄 scipy-1.16.3-cp313-cp313-win_amd64.whl
+  │   │   │       ├── 📄 six.py
+  │   │   │       ├── 📄 threadpoolctl.py
+  │   │   │       └── 📄 typing_extensions.py
+  │   │   ├── [ ] Scripts/
+  │   │   ├── [ ] share/
+  │   │   ├── 📄 .gitignore
+  │   │   └── 📄 pyvenv.cfg
+  │   ├── 📄 database.py
+  │   ├── 📄 ingest.py
+  │   ├── 📄 requirements.txt
+  │   ├── 📄 scanner.py
+  │   └── 📄 server.py
+  ├── [ ] data/
+  └── [ ] frontend/
